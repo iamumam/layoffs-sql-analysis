@@ -129,8 +129,6 @@ layoffs-sql-analysis/
 │   └── layoffs.csv                  # dataset mentah (jika diizinkan untuk dibagikan)
 ├── layoffs_cleaning_data.sql        # tahap 1: data cleaning
 ├── EDA.sql                          # tahap 2: exploratory data analysis
-└── images/
-    └── er-diagram.png               # opsional: screenshot hasil query / dashboard
 ```
 
 ## ▶️ Cara Menjalankan
@@ -158,8 +156,8 @@ layoffs-sql-analysis/
 
 ## 📬 Kontak
 
-**[Nama Kamu]**
-📧 email@example.com · 🔗 [LinkedIn](#) · 💻 [GitHub](#)
+**Muhammad Umam**
+📧 umammuhamad22@gmail.com · 🔗 https://www.linkedin.com/in/muhammad-umam/ · 💻 github.com/iamumam
 
 ---
 *Proyek ini dibuat sebagai bagian dari portfolio data analyst untuk mendemonstrasikan kemampuan SQL dalam data cleaning dan exploratory data analysis.*
