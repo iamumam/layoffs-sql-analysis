@@ -39,7 +39,7 @@ Dataset berisi informasi layoffs dari berbagai perusahaan dengan kolom-kolom ber
 | `country` | Negara |
 | `funds_raised_millions` | Total dana yang berhasil dihimpun perusahaan (dalam juta USD) |
 
-> *Sumber data: [Layoffs.fyi](https://layoffs.fyi/) — tambahkan link sumber aslinya di sini jika kamu mengunduhnya dari Kaggle/tempat lain.*
+> *Sumber data: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 ## 🛠 Tools & Teknologi
 - **PostgreSQL** — database & query engine
