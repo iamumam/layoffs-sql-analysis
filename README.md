@@ -112,10 +112,11 @@ Analisis yang dilakukan:
 
 > ✏️ **Catatan untuk kamu:** bagian ini sebaiknya diisi dengan temuan nyata dari hasil query di atas — misalnya perusahaan/industri/negara dengan PHK terbanyak, tren tahun dengan PHK tertinggi, dsb. Ini bagian paling penting untuk portfolio karena menunjukkan kemampuan *storytelling* dari data, bukan cuma menulis query. Contoh format:
 
-- Industri **[nama industri]** mencatat jumlah PHK tertinggi dengan total **[angka]** karyawan.
-- Tahun **[tahun]** merupakan puncak gelombang PHK dengan total **[angka]** karyawan terdampak.
-- Perusahaan **[nama perusahaan]** melakukan PHK terbesar dalam satu pengumuman, yaitu **[angka]** karyawan.
-- **[Negara]** menjadi negara dengan akumulasi PHK tertinggi.
+- Industry Consumer dan Retail mencatat angka PHK tertinggi mulai tahun 2020 - 2023, dengan angka 45182 orang untuk sektor Consumer dan 43613 orang sektor Retail.
+- Tahun 2022 merupakan puncak gelombang PHK dengan total 160661 karyawan terdampak.
+- Perusahaan Google melakukan PHK terbesar dalam satu pengumuman, yaitu 12000 karyawan.
+- United States menjadi negara dengan akumulasi PHK tertinggi.
+
 
 ---
 
