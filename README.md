@@ -44,7 +44,6 @@ Dataset berisi informasi layoffs dari berbagai perusahaan dengan kolom-kolom ber
 ## 🛠 Tools & Teknologi
 - **PostgreSQL** — database & query engine
 - **SQL** — window functions, CTE, aggregate functions, self-join
-- *(Opsional: sebutkan tools GUI yang kamu pakai, misalnya pgAdmin / DBeaver / TablePlus)*
 
 ---
 
